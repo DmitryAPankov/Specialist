@@ -28,11 +28,11 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>БухгалтерскийУчет</Name>
+			<Name>СложныеПериодическиеРасчеты</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Бухгалтерский учет</v8:content>
+					<v8:content>Сложные периодические расчеты</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment>Каркасная конфигурация 14.04.2017</Comment>
