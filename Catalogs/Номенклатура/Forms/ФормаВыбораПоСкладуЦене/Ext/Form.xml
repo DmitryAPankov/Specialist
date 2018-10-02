@@ -94,7 +94,7 @@
 					<CommandBarLocation>None</CommandBarLocation>
 					<DefaultItem>true</DefaultItem>
 					<ChoiceMode>true</ChoiceMode>
-					<MultipleChoice>true</MultipleChoice>
+					<SelectionMode>SingleRow</SelectionMode>
 					<UseAlternationRowColor>true</UseAlternationRowColor>
 					<EnableStartDrag>true</EnableStartDrag>
 					<EnableDrag>true</EnableDrag>
