@@ -321,8 +321,7 @@
 			<DataHistory>DontUse</DataHistory>
 		</Properties>
 		<ChildObjects>
-			<Form>ФормаВыбораПоСкладуЦене</Form>
-			<Form>ФормаВыбораПоСкладуЦене_</Form>
+			<Form>ФормаВыбораПоСкладу</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
