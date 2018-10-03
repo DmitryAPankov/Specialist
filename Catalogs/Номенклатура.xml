@@ -320,6 +320,9 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 			<DataHistory>DontUse</DataHistory>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Form>ФормаВыбораПоСкладуЦене</Form>
+			<Form>ФормаВыбораПоСкладуЦене_</Form>
+		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
