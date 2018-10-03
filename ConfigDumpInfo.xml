@@ -11,8 +11,8 @@
 		<Metadata name="Catalog.Контрагенты" id="58991d54-749b-427f-8f9f-d94df8f49f66" configVersion="eb09ed49bb82414596c2310fe28369e200000000"/>
 		<Metadata name="Catalog.Контрагенты.Predefined" id="58991d54-749b-427f-8f9f-d94df8f49f66.1c" configVersion="991ad2fa77f85446a6ad8454d2fd0edc00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="a53f7b6b-7cdb-4a54-9b8c-162cb9cef6c8" configVersion="7f0b37356a5c7846b1326740a0b48eb800000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбораПоСкладу" id="b0b91da6-8e18-4166-9bf6-29de6e1f0bba" configVersion="a75e21b86d529149a40b4fde347edb7100000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбораПоСкладу.Form" id="b0b91da6-8e18-4166-9bf6-29de6e1f0bba.0" configVersion="b07734557244ac48ae71985be884d37f00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбораПоСкладу" id="b0b91da6-8e18-4166-9bf6-29de6e1f0bba" configVersion="89ebd167a099cd46bde1726bd6b10e0700000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбораПоСкладу.Form" id="b0b91da6-8e18-4166-9bf6-29de6e1f0bba.0" configVersion="87b64a568f6f124fb2ecb13300745cac00000000"/>
 		<Metadata name="Catalog.Подразделения" id="0ae5fb09-efcf-475c-814b-ece12f1c6072" configVersion="1160c932369ced4a9150cc083742a26300000000"/>
 		<Metadata name="Catalog.Подразделения.Predefined" id="0ae5fb09-efcf-475c-814b-ece12f1c6072.1c" configVersion="eb67f1ea49d1714cba4820d8dd36d60800000000"/>
 		<Metadata name="Catalog.ФизическиеЛица" id="c5838cc9-53d7-46b5-9781-2a7577a974d0" configVersion="d0ba334e93a2cd47b7ae3d9ae2d29d0f00000000"/>
