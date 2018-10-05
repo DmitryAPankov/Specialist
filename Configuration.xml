@@ -150,6 +150,10 @@
 			<CommonPicture>Расчеты</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>Сервис</CommonPicture>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>ПолныеПрава</Role>
+			<FunctionalOption>ДополнительныйКонтроль</FunctionalOption>
+			<FunctionalOptionsParameter>Пользователь</FunctionalOptionsParameter>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
@@ -166,6 +170,7 @@
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<InformationRegister>ГрафикиРаботы</InformationRegister>
 			<InformationRegister>СведенияОСотрудниках</InformationRegister>
+			<InformationRegister>ПраваДополнительногоКонтроля</InformationRegister>
 			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СвойстваОбъектов</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
