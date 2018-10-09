@@ -152,6 +152,7 @@
 			<CommonPicture>Сервис</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
+			<CommonModule>ОбщийМодуль</CommonModule>
 			<FunctionalOption>ДополнительныйКонтроль</FunctionalOption>
 			<FunctionalOptionsParameter>Пользователь</FunctionalOptionsParameter>
 			<Catalog>Валюты</Catalog>
